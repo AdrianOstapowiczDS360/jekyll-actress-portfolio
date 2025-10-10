@@ -1,0 +1,32 @@
+<header class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">{{ site.title }}</h1>
+            <p class="hero-subtitle">Aktorka filmowa i teatralna</p>
+            <div class="social-media-row">
+                <a href="https://www.instagram.com/paticashy/" target="_blank" rel="noopener noreferrer">
+                    <img src="/assets/images/Instagram_logo.svg" alt="Instagram" class="hero-image" />
+                </a>
+                <a href="https://www.filmpolski.pl/fp/index.php?osoba=11139386" target="_blank" rel="noopener noreferrer">
+                    <img src="/assets/images/filmpolski.webp" alt="Filmpolski" class="hero-image" />
+                </a>
+                <a href="https://www.youtube.com/channel/UCkl4HGfD4r0vQ16lt_jTCLg" target="_blank" rel="noopener noreferrer">
+                    <img src="/assets/images/YoutubeLogo.svg" alt="YouTube" class="hero-image" style="height: 5vh" />
+                </a>
+            </div>
+            <div class="hero-images">
+                <img src="/assets/images/photo1.jpg" alt="Photo 1">
+                <img src="/assets/images/photo2.jpg" alt="Photo 2">
+                <img src="/assets/images/picture3.jpg" alt="Picture 3">
+            </div>
+            <nav class="main-nav">
+                <a href="{{ '/' | relative_url }}">Strona główna</a>
+                <a href="{{ '/about/' | relative_url }}">O mnie</a>
+                <a href="{{ '/gallery/' | relative_url }}">Portfolio</a>
+                <a href="{{ '/video/' | relative_url }}">Video</a>
+                <a href="{{ '/filmography/' | relative_url }}">Filmografia</a>
+                <a href="{{ '/other_projects/' | relative_url }}">Inne projekty artystyczne</a>
+                <a href="{{ '/contact/' | relative_url }}">Kontakt</a>
+<!--                <a class="lang" href="{{ '/en/' | relative_url }}">EN</a>-->
+            </nav>
+        </div>
+</header>

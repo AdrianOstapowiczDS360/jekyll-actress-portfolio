@@ -1,0 +1,10 @@
+<footer class="site-footer">
+    <div class="wrap">
+        <div class="social">
+            {% for s in site.data.social %}
+            <a href="{{ s.url }}" target="_blank" rel="noopener noreferrer">{{ s.name }}</a>{% unless forloop.last %} • {% endunless %}
+            {% endfor %}
+        </div>
+        <p class="copyright">© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </div>
+</footer>

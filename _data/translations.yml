@@ -1,0 +1,12 @@
+home:
+  pl: "Strona główna"
+  en: "Home"
+about:
+  pl: "O mnie"
+  en: "About"
+gallery:
+  pl: "Portfolio"
+  en: "Gallery"
+contact:
+  pl: "Kontakt"
+  en: "Contact"
