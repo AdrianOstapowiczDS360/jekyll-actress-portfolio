@@ -1,6 +1,6 @@
 title: "Patrycja Kaszyńska"
-baseurl: ""
-url: ""
+baseurl: "/jekyll-actress-portfolio"
+url: "https://adrianostapowiczds360.github.io"
 markdown: kramdown
 theme: minima
 plugins: []
