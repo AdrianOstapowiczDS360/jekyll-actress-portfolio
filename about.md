@@ -14,27 +14,27 @@ Oczy: Piwne
 
 Włosy: Jasny brąz, blond pasemka
 
-Wymiary: 85/49/93
+Wymiary: 85/69/93
 
 
 ## Umiejętności
-Jazda na rowerze
+- Jazda na rowerze
 
-Jazda na rolkach
+- Jazda na rolkach
 
-Jazda konna
+- Jazda konna
 
-Język angielski
+- Język angielski
 
-Język niemiecki
+- Język niemiecki
 
-Język migowy polski
+- Język migowy polski
 
-Pływanie
+- Pływanie
 
-Prawo jazdy kat. B
+- Prawo jazdy kat. B
 
-Podstawowe kroki tańca towarzyskiego
+- Podstawowe kroki tańca towarzyskiego
 
 ## Wykształcenie
 
@@ -48,6 +48,7 @@ Podstawowe kroki tańca towarzyskiego
 Internetowy
 
 2018-2021 – Teatr Dramatyczny im. Aleksandra Węgierki w Białymstoku, warsztaty teatralne
+
 2015-2020 – Wydział Prawa Uniwersytetu w Białymstoku, Studia magisterskie, kierunek: Prawo
 
 2014-2015 – Lart Studio w Krakowie
@@ -56,6 +57,6 @@ Internetowy
 
 ## Znaki szczególne
 
-Blizna na nosie
+- Blizna na nosie
 
-Tatuaże
+- Tatuaże
