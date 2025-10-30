@@ -14,6 +14,8 @@ Oczy: Piwne
 
 Włosy: Jasny brąz, blond pasemka
 
+Wzrost: 172 cm
+
 Wymiary: 85/69/93
 
 
