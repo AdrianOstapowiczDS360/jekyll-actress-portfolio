@@ -1,0 +1,94 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"CucumberRunConfigurationType\" factoryName=\"Cucumber\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_CUCUMBER\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/*.feature\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPTS_PATHS\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TAGS_FILTER\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_NAME_FILTER\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"CUCUMBER_ARGS\" VALUE=\"--color -r features\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_VERSION\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"FULL_BACKTRACE\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"VERBOSE_OPTION\" VALUE=\"true\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"CUCUMBER_RUNNER_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"USE_CUSTOM_RUNNER\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SETTINGS_VERSION\" VALUE=\"2\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RSpecRunConfigurationType\" factoryName=\"RSpec\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_RSPEC\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATHS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_RUNNER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/*_spec.rb\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_EXAMPLE_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"USE_EXAMPLE_MATCHES\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"LINE_NUMBER_EXAMPLE_IDS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_ARGS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_VERSION\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"USE_CUSTOM_SPEC_RUNNER\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"FULL_BACKTRACE\" VALUE=\"false\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RackRunConfigurationType\" factoryName=\"Rack\">\n      <RACK_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"PORT\" VALUE=\"9292\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"IP\" VALUE=\"127.0.0.1\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"CONFIG_FILE\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"RACK_SERVER_TYPE\" VALUE=\"Default\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"LAUNCH_JS\" VALUE=\"false\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_RAKE\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TESTOPTS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RubyRunConfigurationType\" factoryName=\"Ruby\">\n      <RUBY_RUN_CONFIG NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"WORK DIR\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_PATH\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"TestUnitRunConfigurationType\" factoryName=\"Test::Unit/Shoulda/Minitest\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_TESTUNIT\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"RubyCoverageRunConfigurationExtension\" runner=\"rcov\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPTS_PATHS\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_METHOD_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_OPTIONS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5603e2fe4f68b39db2669eadf0616a8a6691638d)
++++ b/.idea/workspace.xml	(date 1762423518124)
+@@ -9,7 +9,11 @@
+       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+@@ -38,7 +42,11 @@
+       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+@@ -65,7 +73,11 @@
+       <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+       <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
+       <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+@@ -82,7 +94,11 @@
+       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+@@ -100,7 +116,11 @@
+       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+@@ -114,14 +134,18 @@
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+       <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov" />
++      <EXTENSION ID="RubyCoverageRunConfigurationExtension" runner="rcov">
++        <COVERAGE_PATTERN ENABLED="true">
++          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
++        </COVERAGE_PATTERN>
++      </EXTENSION>
+       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
++      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="CUSTOM_SET_OF_FILES" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
