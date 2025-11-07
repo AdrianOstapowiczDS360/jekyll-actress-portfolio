@@ -6,4 +6,4 @@ permalink: /contact/
 
 # Kontakt
 
-- ## E-mail: patrycja@kaszynska.pl
+- ## E-mail: kontakt@kaszynska.pl

@@ -30,8 +30,6 @@ Wymiary: 85/69/93
 
 - Język niemiecki
 
-- Język migowy polski
-
 - Pływanie
 
 - Prawo jazdy kat. B
