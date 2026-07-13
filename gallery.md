@@ -39,4 +39,32 @@ permalink: /gallery/
 <img src="{{ site.baseurl }}/assets/images/picture4.jpg" alt="Picture 4" class="no-copy">
 
 
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/1.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/2.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/3.jpg" alt="new images" class="no-copy">
+
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/4.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/5.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/6.jpg" alt="new images" class="no-copy">
+
+
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/8.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/9.jpg" alt="new images" class="no-copy">
+
+
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/11.jpg" alt="new images" class="no-copy">
+
+
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/1.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/2.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/3.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/4.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/5.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/6.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/B&W/7.jpg" alt="new images" class="no-copy">
+
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/10.jpg" alt="new images" class="no-copy">
+<img src="{{ site.baseurl }}/assets/images/newimages2/Kolor/7.jpg" alt="new images" class="no-copy">
+
+
 </div>
