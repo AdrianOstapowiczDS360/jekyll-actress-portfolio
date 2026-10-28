@@ -6,8 +6,6 @@ permalink: /other_projects/
 
 # Inne projekty artystyczne
 
-2026 r. – wydanie debiutanckiego tomiku poezji pt. **Nastroje moje**
-
 2024 r. – realizacja filmu **Wiatraki**
 
 Link: [https://youtu.be/N7ZAgYl_g9g](https://youtu.be/N7ZAgYl_g9g)
